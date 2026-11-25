@@ -1,4 +1,4 @@
-# soren-com
+# Soren
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,139 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-soren-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://soren.com/
+Soren offers a verified free‑to‑keep PC games feed designed for autonomous AI agents and machine‑to‑machine pipelines. The service provides API endpoints that confirm game availability against store APIs, charge per data change, and require no signup or API‑key, using HTTP 402 payment challenges. It also includes additional endpoints for oracles, chain reads, and coordination primitives, all billed per use.
+
+**Areas:** Free Games · API · Machine-to-Machine · Oracles
+
+## Soren on APIs.io
+
+Everything profiled for Soren is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/soren-com/](https://apis.io/providers/soren-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (26)
+
+- [Soren AI API](https://apis.io/apis/soren-com/soren-com-ai-api/) — The Ai API from Soren — 3 operation(s) for ai.
+- [Soren Attestation API](https://apis.io/apis/soren-com/soren-com-attestation-api/) — The Attestation API from Soren — 1 operation(s) for attestation.
+- [Soren Chain API](https://apis.io/apis/soren-com/soren-com-chain-api/) — The Chain API from Soren — 9 operation(s) for chain.
+- [Soren Commit API](https://apis.io/apis/soren-com/soren-com-commit-api/) — The Commit API from Soren — 1 operation(s) for commit.
+- [Soren Conformance API](https://apis.io/apis/soren-com/soren-com-conformance-api/) — The Conformance API from Soren — 2 operation(s) for conformance.
+- [Soren Coord API](https://apis.io/apis/soren-com/soren-com-coord-api/) — The Coord API from Soren — 5 operation(s) for coord.
+- [Soren Draw API](https://apis.io/apis/soren-com/soren-com-draw-api/) — The Draw API from Soren — 1 operation(s) for draw.
+- [Soren Echo Payment API](https://apis.io/apis/soren-com/soren-com-echo-payment-api/) — The Echo Payment API from Soren — 1 operation(s) for echo payment.
+- [Soren Free API](https://apis.io/apis/soren-com/soren-com-free-api/) — The Free API from Soren — 1 operation(s) for free.
+- [Soren Free Games API](https://apis.io/apis/soren-com/soren-com-free-games-api/) — The Free Games API from Soren — 1 operation(s) for free games.
+- [Soren Game API](https://apis.io/apis/soren-com/soren-com-game-api/) — The Game API from Soren — 1 operation(s) for game.
+- [Soren Lookup API](https://apis.io/apis/soren-com/soren-com-lookup-api/) — The Lookup API from Soren — 1 operation(s) for lookup.
+- [Soren MCP API](https://apis.io/apis/soren-com/soren-com-mcp-api/) — The Mcp API from Soren — 1 operation(s) for mcp.
+- [Soren Oracle API](https://apis.io/apis/soren-com/soren-com-oracle-api/) — The Oracle API from Soren — 5 operation(s) for oracle.
+- [Soren Paid Ping API](https://apis.io/apis/soren-com/soren-com-paid-ping-api/) — The Paid Ping API from Soren — 1 operation(s) for paid ping.
+- [Soren Report API](https://apis.io/apis/soren-com/soren-com-report-api/) — The Report API from Soren — 1 operation(s) for report.
+- [Soren Reveal API](https://apis.io/apis/soren-com/soren-com-reveal-api/) — The Reveal API from Soren — 1 operation(s) for reveal.
+- [Soren Roundtrip API](https://apis.io/apis/soren-com/soren-com-roundtrip-api/) — The Roundtrip API from Soren — 1 operation(s) for roundtrip.
+- [Soren Secret API](https://apis.io/apis/soren-com/soren-com-secret-api/) — The Secret API from Soren — 2 operation(s) for secret.
+- [Soren Status API](https://apis.io/apis/soren-com/soren-com-status-api/) — The Status API from Soren — 1 operation(s) for status.
+- [Soren Telljoke API](https://apis.io/apis/soren-com/soren-com-telljoke-api/) — The Telljoke API from Soren — 1 operation(s) for telljoke.
+- [Soren Testpayment API](https://apis.io/apis/soren-com/soren-com-testpayment-api/) — The Testpayment API from Soren — 1 operation(s) for testpayment.
+- [Soren Upcoming API](https://apis.io/apis/soren-com/soren-com-upcoming-api/) — The Upcoming API from Soren — 1 operation(s) for upcoming.
+- [Soren Wake API](https://apis.io/apis/soren-com/soren-com-wake-api/) — The Wake API from Soren — 2 operation(s) for wake.
+- [Soren Web API](https://apis.io/apis/soren-com/soren-com-web-api/) — The Web API from Soren — 3 operation(s) for web.
+- [Soren Contact Us API](https://apis.io/apis/soren-com/soren-com-contact-us-api/) — The Contact Us API from Soren — 1 operation(s) for contact us.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Soren Agentic Access](https://apis.io/agentic-access/soren-com/soren-com-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [Feed](https://apis.io/schemas/soren-com/soren-com-feed/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Soren Com Context](https://apis.io/jsonld/soren-com/soren-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Soren API Rules](https://apis.io/rules/soren-com/soren-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Soren Domain Security](https://apis.io/security/soren-com/soren-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://soren.com/)
+- [Documentation](https://soren.com/llms.txt)
+- [API reference](https://soren.com/openapi.json)
+- [Pricing](https://soren.com/price)
+- [Support](https://soren.com/contactus)
+
+## API Evangelist rating
+
+**Kin Score 34.2** — thin · rubric 0.27.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 53.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 10.5 |
+
+**Agent readiness 30.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/soren-com/](https://apis.io/providers/soren-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Soren: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/soren-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
